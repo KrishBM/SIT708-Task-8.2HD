@@ -1,0 +1,115 @@
+<resources>
+    <string name="app_name">Job Achiever AI</string>
+    
+    <!-- Welcome Screen -->
+    <string name="welcome_title">Welcome to Job Achiever AI</string>
+    <string name="welcome_subtitle">Your gateway to career success. Explore our key features below.</string>
+    <string name="get_started">Get started</string>
+    
+    <!-- Authentication -->
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="forgot_password">Forgot your password?</string>
+    <string name="enter_email">Enter your email</string>
+    <string name="enter_password">Enter your password</string>
+    
+    <!-- Main Features -->
+    <string name="mock_interviews">Mock Interviews with AI feedback</string>
+    <string name="performance_dashboard">Performance Dashboard Insights</string>
+    <string name="constructive_feedback">Get Constructive Feedback</string>
+    
+    <!-- Navigation -->
+    <string name="home">Home</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="feedback">Feedback</string>
+    <string name="profile">Profile</string>
+    <string name="analytics">Analytics</string>
+    <string name="calendar">Calendar</string>
+    <string name="settings">Settings</string>
+    
+    <!-- Interview Practice -->
+    <string name="job_interview_prep">Job Interview Prep</string>
+    <string name="choose_interview_questions">Choose Interview Questions</string>
+    <string name="software_engineer">Software Engineer</string>
+    <string name="data_analyst">Data Analyst</string>
+    <string name="product_manager">Product Manager</string>
+    <string name="marketing">Marketing</string>
+    <string name="record_your_answers">Record Your Answers</string>
+    <string name="start_recording">Start Recording</string>
+    
+    <!-- Performance -->
+    <string name="professional_skills">Professional Skills</string>
+    <string name="performance_overview">Performance overview</string>
+    <string name="interviews_completed">Interviews completed</string>
+    <string name="achievements_unlocked">Achievements unlocked</string>
+    <string name="interview_pro">Interview Pro</string>
+    <string name="practice_for_success">Practice for success!</string>
+    <string name="expertise">Expertise</string>
+    <string name="mastering_interview_skills">Mastering interview skills</string>
+    
+    <!-- Practice Sessions -->
+    <string name="practice_sessions">Practice Sessions</string>
+    <string name="performance">Performance</string>
+    <string name="track">Track</string>
+    <string name="user_input">User Input</string>
+    <string name="pr_strategies">PR Strategies</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="assistant">Assistant</string>
+    <string name="career_growth">Career Growth</string>
+    <string name="company_insights">Company Insights</string>
+    <string name="leadership_role">Leadership Role</string>
+    <string name="tech">Tech</string>
+    
+    <!-- Dashboard -->
+    <string name="job_achiever_ai_dashboard">Job Achiever AI Dashboard</string>
+    <string name="response_time">Response Time</string>
+    <string name="average_seconds">Average: 1.2 seconds</string>
+    <string name="confidence_level">Confidence Level</string>
+    <string name="average_percentage">Average: 85%</string>
+    <string name="overall_performance_score">Overall Performance Score</string>
+    <string name="score">Score: 78</string>
+    
+    <!-- Feedback -->
+    <string name="your_feedback">Your Feedback</string>
+    <string name="feedback_subtitle">We appreciate your feedback to improve our app. Please fill out the form below.</string>
+    <string name="comments_suggestions">Comments &amp; Suggestions</string>
+    <string name="write_comments">Write your comments here...</string>
+    <string name="rate_experience">Rate Your Experience</string>
+    <string name="overall_satisfaction">Overall Satisfaction</string>
+    <string name="satisfy">Satisfy</string>
+    <string name="neutral">Neutral</string>
+    <string name="dissatisfied">Dissatisfied</string>
+    <string name="agree_terms">I agree to the terms and conditions</string>
+    <string name="submit_feedback">Submit Feedback</string>
+    
+    <!-- Job Categories -->
+    <string name="job_categories">Job Categories</string>
+    <string name="professional">Professional</string>
+    <string name="personal">Personal</string>
+    <string name="interview_practice_01">Interview Practice 01</string>
+    <string name="interview_preparation">Interview Preparation</string>
+    
+    <!-- Progress -->
+    <string name="progress">Progress</string>
+    <string name="improve_interview_skills">Improve Interview Skills</string>
+    <string name="start">Start</string>
+    <string name="interview_analysis">Interview Analysis</string>
+    <string name="insights">Insights</string>
+    <string name="share">Share</string>
+    
+    <!-- AI Responses -->
+    <string name="ai_ready">AI ready for practice together. Ready?</string>
+    <string name="user_ready">I\'m ready for feedback. Let\'s improve.</string>
+    <string name="ai_suggestions">Suggestions for improvement?</string>
+    <string name="user_great_progress">Great progress! Keep it up.</string>
+    <string name="ai_improve_together">Let\'s improve together.</string>
+    <string name="new_feedback">New Feedback...</string>
+    
+    <!-- Common -->
+    <string name="now">Now</string>
+    <string name="today">Today</string>
+    <string name="am">AM</string>
+    <string name="pm">PM</string>
+</resources>
